@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Assistant Professor <br />
 Department of Computer Software Engineering <br />
-<a herf="https://eng.kumoh.ac.kr/eng/index.do">Kumoh National Institute of Technology</a>, Korea
+<a href="https://eng.kumoh.ac.kr/eng/index.do">Kumoh National Institute of Technology</a>, Korea
 
 #### Research Interests
 
