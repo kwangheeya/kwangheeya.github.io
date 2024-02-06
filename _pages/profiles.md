@@ -5,6 +5,7 @@ title: Data Mining Lab
 description: Members of our lab
 years: 
 nav: true
+news: true  # includes a list of news items
 profiles:
   - align: left
     content: about_einstein.md
