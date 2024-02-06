@@ -1,6 +1,6 @@
           
           <div class="news">
-            <h2> News</h2>
+            <p style="text-align: center;"><h2>News</h2></p>
             {% if site.news != blank -%} 
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
