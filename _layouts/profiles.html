@@ -6,7 +6,9 @@ layout: page
   <article>
     {% if page.news -%}
       <!-- News -->
+    ```shell
       {%- include news.html %}
+    ```
     {%- endif %}
     {% if page.profiles %}
       {% for profile in page.profiles %}
