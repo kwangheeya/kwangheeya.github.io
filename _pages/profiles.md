@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /DMLab/
 title: Data Mining Lab
-description: 데이터마이닝연구실@kit (연구실 위치: D340 / 문의: kwanghee (at) kumoh.ac.kr)
+description: 데이터마이닝연구실@kit (연구실 위치: D340, 문의: kwanghee [at] kumoh.ac.kr)
 years: 
 nav: true
 news: true  # includes a list of news items
