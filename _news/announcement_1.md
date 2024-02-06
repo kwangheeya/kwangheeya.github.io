@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-02-06 16:30:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+열정있는 학부연구생을 모집합니다:) 
+연구주제: 인공지능, 보안
