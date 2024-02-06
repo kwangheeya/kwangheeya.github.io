@@ -48,7 +48,7 @@ Department of Computer Software Engineering <br />
 #### Education
 
 - Ph.D. in School of Computing, KAIST (dissertation: "Group recommendations for seen and unseen groups with inductive learning and deep probabilistic models", Advisor: Prof. Myoung Ho Kim), 2023
-- M.S. in School of Computing, KAIST (thesis: "Betweenness centrality based on a new definition of shortest path in directed hypergraphs"), 2016
+- M.S. in School of Computing, KAIST (thesis: "Betweenness centrality based on a new definition of shortest path in directed hypergraphs", Advisor: Prof. Myoung Ho Kim), 2016
 - B.S. in Mathematical Sciences, Korea Advanced Institute of Science and Technology (KAIST), 2014
 
 
