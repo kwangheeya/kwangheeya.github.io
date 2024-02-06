@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /DMLab/
 title: Data Mining Lab
-description: 
+description: 데이터마이닝연구실@kit (D---)
 years: 
 nav: true
 news: true  # includes a list of news items
