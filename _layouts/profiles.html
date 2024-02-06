@@ -6,9 +6,9 @@ layout: page
   <article>
     {% if page.news -%}
       <!-- News -->
-    ```shell
+      <div style="border: 0px; border-radius: 8px; background-color: #efefef; margin: 4px; padding: 6px;">
       {%- include news.html %}
-    ```
+      </div>
     {%- endif %}
     {% if page.profiles %}
       {% for profile in page.profiles %}
