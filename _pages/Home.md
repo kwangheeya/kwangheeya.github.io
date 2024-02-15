@@ -35,7 +35,7 @@ Department of Computer Software Engineering <br />
 - 컴퓨터 개론: 2024 봄
 - 클라우드 컴퓨팅: 2024 봄
 - 창의융합설계2: 2024 봄
-
+- 객체지향프로그래밍(대학원): 2024 봄
 
 #### Work Experience
 
