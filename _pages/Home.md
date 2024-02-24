@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Assistant Professor <br />
 Department of Computer Software Engineering <br />
-<a href="https://eng.kumoh.ac.kr/eng/index.do">Kumoh National Institute of Technology</a>, Korea
+<a href="https://eng.kumoh.ac.kr/eng/index.do">Kumoh National Institute of Technology</a>
 
 #### Research Interests
 
@@ -38,9 +38,9 @@ Department of Computer Software Engineering <br />
 
 #### Work Experience
 
-- 2024.01 – present: Assistant Professor, Kumoh National Institute of Technology, Korea 
+- 2024.01 – present: Assistant Professor – Kumoh National Institute of Technology  
 - 2022.12 – 2023.12: Full-Time Research Scientist – National Security Research Institute
-- 2014.09 – 2023.02: Research Assistant – Database Laboratory in Korea Advanced Institute of Science and Technology (PI: Myoung Ho Kim)
+- 2014.09 – 2023.02: Research Assistant – KAIST Database Laboratory (PI: Myoung Ho Kim)
 
 
 #### Education
