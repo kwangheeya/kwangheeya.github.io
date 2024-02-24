@@ -20,10 +20,9 @@ Department of Computer Software Engineering <br />
 
 #### Research Interests
 
-- Geometric deep learning (Graphs, Equivariant deep learning, etc.)
-- Bayesian deep learning (VAEs, Diffusion models)
+- Geometric deep learning (Graphs, Group-equivariant deep learning, etc.)
 - AI for materials science
-- Cyber security
+- Natural Language Processing
 
 #### Publications
 
