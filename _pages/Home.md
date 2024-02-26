@@ -22,6 +22,7 @@ Department of Computer Software Engineering <br />
 
 - Geometric deep learning (graphs, equivariant deep learning, etc.)
 - AI for materials science
+- Natural language processing (discourse structures, LLMs, etc.)
 
 #### Publications
 
