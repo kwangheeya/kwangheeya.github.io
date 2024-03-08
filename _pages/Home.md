@@ -20,7 +20,7 @@ Department of Computer Software Engineering <br />
 
 #### Research Interests
 
-- Graph deep learning
+- Graph machine learning
   - App: AI for materials science
   - App: discourse structure learning in natural language processing
 
