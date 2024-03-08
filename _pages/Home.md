@@ -20,7 +20,7 @@ Department of Computer Software Engineering <br />
 
 #### Research Interests
 
-- Geometric deep learning (graphs, equivariance, etc.)
+- Graph deep learning
   - App: AI for materials science
   - App: discourse structure learning in natural language processing
 
