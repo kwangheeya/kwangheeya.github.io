@@ -22,7 +22,7 @@ Department of Computer Software Engineering <br />
 
 - Graph machine learning
   - App: AI for materials science
-  - App: discourse structure learning in natural language processing
+- Generative AI (large language model)
 
 #### Publications
 
