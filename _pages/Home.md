@@ -21,8 +21,8 @@ Department of Computer Software Engineering <br />
 #### Research Interests
 
 - Graph machine learning
-  - App: AI for materials science
-- Generative AI (large language model)
+  - Application area 1: Materials science
+  - Application area 2: Large language models
 
 #### Publications
 
